@@ -1,0 +1,11 @@
+name,department,current_salary,market_salary,recognition_count,tenure,engagement_score,attendance_rate,survey_response
+Alice Smith,HR,65000,70000,3,2,78,95,"""I feel supported but my growth opportunities are limited."""
+Bob Jones,IT,80000,85000,2,3,65,88,"""Workload is high and I rarely get recognition."""
+Carol White,Sales,72000,75000,5,4,82,92,"""I enjoy my team but compensation feels below market."""
+David Brown,IT,95000,100000,1,5,60,85,"""I am overworked and feel undervalued."""
+Eva Green,Marketing,60000,65000,4,1,90,97,"""I like my role but need more feedback from leadership."""
+Frank Black,HR,69000,70000,2,3,65,90,"""Team environment is good, but growth path unclear."""
+Grace Lee,Sales,76000,80000,3,2,68,93,"""Satisfied with my work but workload is increasing."""
+Henry Adams,IT,88000,95000,1,4,58,82,"""I am burned out and thinking of leaving."""
+Iris White,Marketing,62000,65000,5,2,85,96,"""Work-life balance is good, happy with team."""
+Jack Smith,Sales,77000,80000,2,3,68,89,"""Recognition is rare, career path unclear."""
